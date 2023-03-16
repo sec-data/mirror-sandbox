@@ -32,7 +32,7 @@ jobs:
 
       - name: Try single CLI run of tool
         run: |
-          python -m cve_bin_tool.cli -u now test/assets/test-kerberos-5-1.15.1.out
+          python -m cve_bin_tool.cli -u now .
 
       - name: Export database
         run: |
