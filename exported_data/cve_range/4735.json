@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4735-2", "vendor": "gnu", "product": "grub2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.02+dfsg1-20+deb10u2", "data_source": "OSV"}]

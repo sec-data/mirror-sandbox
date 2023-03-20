@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3198-2", "vendor": "canonical", "product": "php5", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.4.39-0+deb7u2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3357-2", "vendor": "imagemagick", "product": "imagemagick", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "8:6.9.10.23+dfsg-2.1+deb10u4", "data_source": "OSV"}]

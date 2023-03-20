@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2414-2", "vendor": "ulli_horlacher", "product": "fex", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "20100208+debian1-1+squeeze3", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-r88h-6987-g79f", "vendor": "syncpool_project", "product": "syncpool", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.1.6", "data_source": "OSV"}]
