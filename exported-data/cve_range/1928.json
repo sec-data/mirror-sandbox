@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1928-1", "vendor": "canonical", "product": "php5", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.6.40+dfsg-0+deb8u6", "data_source": "OSV"}]

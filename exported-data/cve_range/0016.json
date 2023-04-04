@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-0016-1", "vendor": "xmlsoft", "product": "libxml2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.7.8.dfsg-2+squeeze", "data_source": "OSV"}]

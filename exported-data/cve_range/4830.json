@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4830-2", "vendor": "flatpak", "product": "flatpak", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.5-0+deb10u3", "data_source": "OSV"}]

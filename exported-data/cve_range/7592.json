@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-f6gj-7592-5jxm", "vendor": "node-simple-router", "product": "node-simple-router", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.10.1", "data_source": "OSV"}]

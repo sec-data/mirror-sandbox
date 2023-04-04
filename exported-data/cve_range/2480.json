@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2480-2", "vendor": "saltstack", "product": "salt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2016.11.2+ds-1+deb9u10", "data_source": "OSV"}]

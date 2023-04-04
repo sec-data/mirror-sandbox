@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1900-2", "vendor": "debian", "product": "apache2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.10-10+deb8u16", "data_source": "OSV"}]

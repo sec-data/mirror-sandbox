@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-qv98-3369-g364", "severity": "UNKNOWN", "description": "KubeVirt vulnerable to arbitrary file read on host", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2022-09-15T03:20:35Z"}]
