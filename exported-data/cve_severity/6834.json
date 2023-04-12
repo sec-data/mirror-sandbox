@@ -1,1 +1,1 @@
-[{"cve_number": "GHSA-6834-r92f-jj42", "severity": "UNKNOWN", "description": "Moderate severity vulnerability that affects actionview", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-03-28T05:24:30.558063Z"}]
+[{"cve_number": "GHSA-6834-r92f-jj42", "severity": "UNKNOWN", "description": "Moderate severity vulnerability that affects actionview", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-04-11T01:42:40.629696Z"}]
