@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-6jg8-7333-554w", "severity": "CRITICAL", "description": "Sandbox Breakout in realms-shim", "score": 9.8, "cvss_version": 3, "cvss_vector": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H", "data_source": "OSV", "last_modified": "2021-09-02T16:40:48Z"}]

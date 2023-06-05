@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-rp78-4562-gx3c", "vendor": "pimcore", "product": "pimcore", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "10.5.20", "data_source": "OSV"}]

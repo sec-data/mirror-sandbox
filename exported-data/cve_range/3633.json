@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-3633-5h82-39pq", "vendor": "theupdateframework", "product": "go-tuf", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.3.2", "data_source": "OSV"}]

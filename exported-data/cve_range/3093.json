@@ -1,1 +1,0 @@
-[{"cve_number": "DLA-3093-2", "vendor": "rubyonrails", "product": "rails", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:5.2.2.1+dfsg-1+deb10u5", "data_source": "OSV"}]

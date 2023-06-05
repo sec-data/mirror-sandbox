@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-f2gr-7299-487h", "severity": "UNKNOWN", "description": "DOS and excessive memory usage when passing untrusted user input to to dag import", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2022-07-06T20:06:56Z"}]

@@ -1,1 +1,0 @@
-[{"cve_number": "DLA-1234-2", "vendor": "gnome", "product": "gdk-pixbuf", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.26.1-1+deb7u8", "data_source": "OSV"}]

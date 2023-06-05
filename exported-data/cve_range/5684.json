@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-5684-g483-2249", "vendor": "gosaml2_project", "product": "gosaml2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.5.0", "data_source": "OSV"}]

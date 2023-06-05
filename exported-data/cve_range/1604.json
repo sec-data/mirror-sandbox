@@ -1,1 +1,0 @@
-[{"cve_number": "DLA-1604-1", "vendor": "lxml", "product": "lxml", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.4.0-1+deb8u1", "data_source": "OSV"}]

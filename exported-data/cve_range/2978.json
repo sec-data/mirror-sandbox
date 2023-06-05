@@ -1,1 +1,0 @@
-[{"cve_number": "DSA-2978-1", "vendor": "xmlsoft", "product": "libxml2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.8.0+dfsg1-7+wheezy1", "data_source": "OSV"}]

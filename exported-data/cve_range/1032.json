@@ -1,1 +1,0 @@
-[{"cve_number": "DLA-1032-1", "vendor": "debian", "product": "unattended-upgrades", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.79.5+wheezy3", "data_source": "OSV"}]

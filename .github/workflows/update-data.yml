@@ -3,9 +3,9 @@
 name: Update database
 
 on:
-  # schedule:
-    # Runs at 00:20 UTC everyday
-    # - cron: '20 0 * * *'
+  schedule:
+    # Runs at 02:20 UTC everyday
+    - cron: '20 2 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -13,6 +13,10 @@ on:
 env:
   NO_EXIT_CVE_NUM: 1
   nvd_api_key: ${{ secrets.NVD_API_KEY }}
+
+permissions:
+  pull-requests: write
+  contents: write
 
 jobs:
   update:
@@ -32,13 +36,18 @@ jobs:
 
       - name: Try single CLI run of tool
         run: |
-          python -m cve_bin_tool.cli -u now test/assets/test-kerberos-5-1.15.1.out
+          python -m cve_bin_tool.cli . -u now
+
+      - name: Dump private key from github secrets
+        run: |
+          echo '${{ secrets.GPG_PRIVATE_KEY }}' > private.key
 
       - name: Export database
         run: |
-          python -m cve_bin_tool.cli --export-json exported_data
+          python -m cve_bin_tool.cli --export-json . --pgp-sign private.key --passphrase '${{ secrets.PASSPHRASE }}'
 
       - name: Create Pull Request
+        id: cpr
         uses: peter-evans/create-pull-request@v4
         with:
           commit-message: 'chore: update database copy'
@@ -46,3 +55,8 @@ jobs:
           branch: chore-update_database-copy
           delete-branch: true
           author: GitHub <noreply@github.com>
+
+      - name: Enable Pull Request Automerge
+        run: gh pr merge --merge --auto "${{ steps.cpr.outputs.pull-request-number }}"
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

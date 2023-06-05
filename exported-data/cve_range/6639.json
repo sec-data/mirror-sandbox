@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-9r7h-6639-v5mw", "vendor": "snapappointments", "product": "bootstrap-select", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.13.6", "data_source": "OSV"}]

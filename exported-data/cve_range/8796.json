@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-8796-gc9j-63rv", "vendor": "matrix-react-sdk_project", "product": "matrix-react-sdk", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.21.0", "data_source": "OSV"}]

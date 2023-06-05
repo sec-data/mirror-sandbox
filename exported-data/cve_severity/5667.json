@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-vj88-5667-w56p", "severity": "UNKNOWN", "description": "Singleton lacks bounds on Send and Sync.", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2021-08-24T17:44:58Z"}]

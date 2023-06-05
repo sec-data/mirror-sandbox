@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-vj88-5667-w56p", "vendor": "ruspiro-singleton_project", "product": "ruspiro-singleton", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.4.1", "data_source": "OSV"}]

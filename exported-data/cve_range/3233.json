@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-3233-rgx3-c2wh", "vendor": "mustache_project", "product": "mustache", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.2.1", "data_source": "OSV"}]

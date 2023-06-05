@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-qv98-3369-g364", "vendor": "kubevirt", "product": "kubevirt", "version": "*", "versionStartIncluding": "0.20.0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.55.1", "data_source": "OSV"}]

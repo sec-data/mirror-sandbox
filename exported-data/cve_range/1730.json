@@ -1,1 +1,0 @@
-[{"cve_number": "DLA-1730-2", "vendor": "libssh2", "product": "libssh2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.3-4.1+deb8u3", "data_source": "OSV"}]

@@ -1,1 +1,0 @@
-[{"cve_number": "DSA-2459-2", "vendor": "quagga", "product": "quagga", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.99.20.1-0+squeeze2", "data_source": "OSV"}]

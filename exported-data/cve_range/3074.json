@@ -1,1 +1,0 @@
-[{"cve_number": "DSA-3074-2", "vendor": "canonical", "product": "php5", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.4.35-0+deb7u2", "data_source": "OSV"}]

@@ -1,1 +1,0 @@
-[{"cve_number": "GHSA-9959-c6q6-6qp3", "vendor": "validator_project", "product": "validator", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.0", "data_source": "OSV"}]
