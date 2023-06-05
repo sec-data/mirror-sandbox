@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-8796-gc9j-63rv", "severity": "MEDIUM", "description": "File upload local preview can run embedded scripts after user interaction", "score": 4.2, "cvss_version": 3, "cvss_vector": "CVSS:3.1/AV:L/AC:H/PR:L/UI:R/S:U/C:L/I:L/A:L", "data_source": "OSV", "last_modified": "2021-10-05T16:31:48Z"}]

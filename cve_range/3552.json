@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-j34v-3552-5r7j", "vendor": "pomerium", "product": "pomerium", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.16.4", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-3244-8mff-w398", "severity": "UNKNOWN", "description": "Reflected XSS in Gotify's /docs via import of outdated Swagger UI", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-01-10T22:48:43Z"}]

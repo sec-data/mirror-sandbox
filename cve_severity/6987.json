@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-r88h-6987-g79f", "severity": "HIGH", "description": "Data races on syncpool", "score": 8.1, "cvss_version": 3, "cvss_vector": "CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/C:H/I:H/A:H", "data_source": "OSV", "last_modified": "2022-06-14T20:30:50Z"}]

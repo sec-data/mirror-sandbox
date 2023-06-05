@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3159-1", "vendor": "videolan", "product": "libbluray", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.1.0-1+deb10u1", "data_source": "OSV"}]

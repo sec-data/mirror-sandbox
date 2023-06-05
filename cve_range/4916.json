@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4916-2", "vendor": "prosody", "product": "prosody", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.11.2-1+deb10u2", "data_source": "OSV"}]

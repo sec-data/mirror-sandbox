@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2131-2", "vendor": "rrdtool_project", "product": "rrdtool", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.8-1.2+deb8u2", "data_source": "OSV"}]

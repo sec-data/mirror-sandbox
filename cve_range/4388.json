@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4388-2", "vendor": "eclipse", "product": "mosquitto", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.10-3+deb9u4", "data_source": "OSV"}]
