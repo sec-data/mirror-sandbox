@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2145-2", "vendor": "twistedmatrix", "product": "twisted", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "14.0.2-3+deb8u2", "data_source": "OSV"}]

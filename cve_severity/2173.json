@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2173-1", "severity": "UNKNOWN", "description": "pam-pgsql - buffer overflow", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2022-08-10T07:05:52.674581Z"}]

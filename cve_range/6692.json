@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-6692-8qqf-79jc", "vendor": "tectonic_xdv_project", "product": "tectonic_xdv", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.1.12", "data_source": "OSV"}]

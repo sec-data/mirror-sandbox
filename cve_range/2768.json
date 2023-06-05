@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2768-2", "vendor": "unbit", "product": "uwsgi", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.14+20161117-3+deb9u5", "data_source": "OSV"}]
