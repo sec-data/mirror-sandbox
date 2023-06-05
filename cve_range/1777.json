@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1777-2", "vendor": "jquery", "product": "jquery", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.7.2+dfsg-3.2+deb8u7", "data_source": "OSV"}]

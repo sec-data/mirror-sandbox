@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2467-2", "vendor": "lxml", "product": "lxml", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.7.1-1+deb9u3", "data_source": "OSV"}]

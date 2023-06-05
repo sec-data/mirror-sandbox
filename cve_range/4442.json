@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4442-2", "vendor": "linuxfoundation", "product": "cups-filters", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.11.6-3+deb9u1", "data_source": "OSV"}]

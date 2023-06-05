@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2742-2", "vendor": "ffmpeg", "product": "ffmpeg", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "7:3.2.15-0+deb9u4", "data_source": "OSV"}]

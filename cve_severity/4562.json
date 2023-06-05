@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-rp78-4562-gx3c", "severity": "UNKNOWN", "description": "Duplicate Advisory: pimcore is vulnerable to cross-site scripting in translate module", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-04-11T01:40:00.543637Z"}]

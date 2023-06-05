@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-5822-pw57-vv37", "severity": "UNKNOWN", "description": "XSS vulnerability when listing users on add & modify server pages.", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-04-11T01:34:32.883691Z"}]

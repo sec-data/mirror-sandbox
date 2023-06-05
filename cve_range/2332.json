@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2332-2", "vendor": "sane-backends_project", "product": "sane-backends", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.0.25-4.1+deb9u2", "data_source": "OSV"}]
