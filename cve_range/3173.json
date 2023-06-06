@@ -1,1 +1,0 @@
-[{"cve_number": "SRCCLR-SID-3173", "vendor": "rails_admin_project", "product": "rails_admin", "version": "*", "versionStartIncluding": "1.0.0-alpha0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.1", "data_source": "GAD"}]
