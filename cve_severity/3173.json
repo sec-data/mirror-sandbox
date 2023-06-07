@@ -1,0 +1,1 @@
+[{"cve_number": "SRCCLR-SID-3173", "severity": "UNKNOWN", "description": "The `ApplicationController` is not protected against CSRF (Cross-Site Request Forgery).", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "GAD", "last_modified": "2016-12-21"}]
