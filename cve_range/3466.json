@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3466-1", "vendor": "avahi", "product": "avahi", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.7-4+deb10u3", "data_source": "OSV"}]
