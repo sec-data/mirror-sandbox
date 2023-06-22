@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3465-1", "vendor": "minidlna_project", "product": "minidlna", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.1+dfsg-2+deb10u4", "data_source": "OSV"}]
