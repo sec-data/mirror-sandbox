@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3470-1", "vendor": "osgeo", "product": "owslib", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.17.1-1+deb10u1", "data_source": "OSV"}]
