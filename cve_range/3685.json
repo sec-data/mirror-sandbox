@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3685-1", "vendor": "libav", "product": "libav", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "6:11.8-1~deb8u1", "data_source": "OSV"}]

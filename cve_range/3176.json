@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3176-1", "vendor": "yandex", "product": "clickhouse", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "18.16.1+ds-4+deb10u1", "data_source": "OSV"}]

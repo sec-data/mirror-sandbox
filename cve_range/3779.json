@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3779-1", "vendor": "wordpress", "product": "wordpress", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.1+dfsg-1+deb8u12", "data_source": "OSV"}]

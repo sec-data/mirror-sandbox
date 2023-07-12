@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2996-1", "vendor": "mruby", "product": "mruby", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.0+20161228+git30d5424a-1+deb9u1", "data_source": "OSV"}]

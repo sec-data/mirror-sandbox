@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4174-1", "vendor": "corosync", "product": "corosync", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.2-3+deb9u1", "data_source": "OSV"}]

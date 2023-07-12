@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3031-1", "vendor": "debian", "product": "apt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.9.7.9+deb7u5", "data_source": "OSV"}]

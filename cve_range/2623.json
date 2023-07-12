@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2623-1", "vendor": "infradead", "product": "openconnect", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.25-0.1+squeeze2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5409-1", "vendor": "libssh", "product": "libssh", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.9.7-0+deb11u1", "data_source": "OSV"}]

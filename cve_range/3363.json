@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3363-1", "vendor": "pcre", "product": "pcre2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "10.32-5+deb10u1", "data_source": "OSV"}]

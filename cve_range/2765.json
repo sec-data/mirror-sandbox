@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2765-1", "vendor": "artifex", "product": "mupdf", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.14.0+ds1-4+deb9u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2207-1", "vendor": "nongnu", "product": "libntlm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4-3+deb8u1", "data_source": "OSV"}]

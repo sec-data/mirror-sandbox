@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2755-1", "vendor": "digint", "product": "btrbk", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.24.0-1+deb9u1", "data_source": "OSV"}]

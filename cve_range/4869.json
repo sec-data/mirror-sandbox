@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4869-1", "vendor": "golang", "product": "tiff", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.1.0+git191117-2~deb10u2", "data_source": "OSV"}]

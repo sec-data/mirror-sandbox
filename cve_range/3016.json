@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3016-1", "vendor": "rsyslog", "product": "rsyslog", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "8.24.0-1+deb9u2", "data_source": "OSV"}]

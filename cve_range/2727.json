@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2727-1", "vendor": "python", "product": "pyxdg", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.25-4+deb9u1", "data_source": "OSV"}]

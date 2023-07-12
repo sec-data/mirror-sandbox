@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3374-1", "vendor": "gnu", "product": "libmicrohttpd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.9.62-1+deb10u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4783-1", "vendor": "sddm_project", "product": "sddm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.18.0-1+deb10u1", "data_source": "OSV"}]

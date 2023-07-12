@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1748-1", "vendor": "debian", "product": "apache2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.10-10+deb8u14", "data_source": "OSV"}]

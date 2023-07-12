@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4438-1", "vendor": "atftp_project", "product": "atftp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.7.git20120829-3.1~deb9u1", "data_source": "OSV"}]

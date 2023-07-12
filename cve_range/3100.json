@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3100-1", "vendor": "mediawiki", "product": "mediawiki", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.19.20+dfsg-0+deb7u2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2078-1", "vendor": "kvirc", "product": "kvirc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:3.4.0-6", "data_source": "OSV"}]

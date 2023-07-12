@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3082-1", "vendor": "flac_project", "product": "flac", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.1-6+deb7u1", "data_source": "OSV"}]

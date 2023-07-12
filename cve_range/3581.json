@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3581-1", "vendor": "libndp", "product": "libndp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4-2+deb8u1", "data_source": "OSV"}]

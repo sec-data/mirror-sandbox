@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1738-1", "vendor": "gpsd_project", "product": "gpsd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.11-3+deb8u1", "data_source": "OSV"}]

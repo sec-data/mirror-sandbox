@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-0012-1", "vendor": "gnupg", "product": "gnupg", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.10-4+squeeze5", "data_source": "OSV"}]

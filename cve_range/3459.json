@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3459-1", "vendor": "libxpm_project", "product": "libxpm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:3.5.12-1+deb10u1", "data_source": "OSV"}]

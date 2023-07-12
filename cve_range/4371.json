@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4371-1", "vendor": "debian", "product": "apt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.9", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1756-1", "vendor": "xmlsoft", "product": "libxslt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.28-2+deb8u4", "data_source": "OSV"}]

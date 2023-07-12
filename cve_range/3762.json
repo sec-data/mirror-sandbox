@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3762-1", "vendor": "golang", "product": "tiff", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.0.3-12.3+deb8u2", "data_source": "OSV"}]

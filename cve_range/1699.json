@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1699-1", "vendor": "asterisk", "product": "zaptel", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.2.11.dfsg-1+etch1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3094-1", "vendor": "flac_project", "product": "flac", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.3.2-3+deb10u2", "data_source": "OSV"}]

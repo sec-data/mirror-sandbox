@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2777-1", "vendor": "golang", "product": "tiff", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.0.8-2+deb9u7", "data_source": "OSV"}]

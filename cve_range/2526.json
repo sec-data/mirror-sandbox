@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2526-1", "vendor": "cypherpunks", "product": "libotr", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.2.0-2+squeeze1", "data_source": "OSV"}]

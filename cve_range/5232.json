@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5232-1", "vendor": "tinygltf_project", "product": "tinygltf", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.5.0+dfsg-3+deb11u1", "data_source": "OSV"}]

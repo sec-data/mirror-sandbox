@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3785-1", "vendor": "jasper_project", "product": "jasper", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.900.1-debian1-2.4+deb8u2", "data_source": "OSV"}]

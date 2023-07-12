@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4933-1", "vendor": "nettle_project", "product": "nettle", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.4.1-1+deb10u1", "data_source": "OSV"}]

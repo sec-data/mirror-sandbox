@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3114-1", "vendor": "debian", "product": "mime-support", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.52-1+deb7u1", "data_source": "OSV"}]

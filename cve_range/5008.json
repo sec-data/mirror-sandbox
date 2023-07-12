@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5008-1", "vendor": "node-tar_project", "product": "node-tar", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "6.0.5+ds1+~cs11.3.9-1+deb11u2", "data_source": "OSV"}]

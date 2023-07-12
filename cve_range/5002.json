@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5002-1", "vendor": "linuxfoundation", "product": "containerd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.5~ds1-2+deb11u1", "data_source": "OSV"}]

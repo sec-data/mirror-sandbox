@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2977-1", "vendor": "libav", "product": "libav", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "6:0.8.13-1", "data_source": "OSV"}]

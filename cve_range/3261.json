@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3261-1", "vendor": "libetpan_project", "product": "libetpan", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.9.3-2+deb10u2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1757-1", "vendor": "auth2db", "product": "auth2db", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.2.5-2+dfsg-1+lenny1", "data_source": "OSV"}]

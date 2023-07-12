@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2283-1", "vendor": "mit", "product": "krb5-appl", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.0.1-1.1", "data_source": "OSV"}]

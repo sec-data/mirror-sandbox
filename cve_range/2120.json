@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2120-1", "vendor": "ruby-lang", "product": "rake", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "10.3.2-2+deb8u1", "data_source": "OSV"}]

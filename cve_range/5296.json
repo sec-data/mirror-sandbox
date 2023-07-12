@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5296-1", "vendor": "xfce", "product": "xfce4-settings", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.16.0-1+deb11u1", "data_source": "OSV"}]

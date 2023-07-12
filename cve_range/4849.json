@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4849-1", "vendor": "firejail_project", "product": "firejail", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.9.58.2-2+deb10u2", "data_source": "OSV"}]

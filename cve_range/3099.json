@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3099-1", "vendor": "freedesktop", "product": "dbus", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.8-1+deb7u5", "data_source": "OSV"}]

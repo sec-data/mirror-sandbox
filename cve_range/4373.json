@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4373-1", "vendor": "coturn_project", "product": "coturn", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.5.0.5-1+deb9u1", "data_source": "OSV"}]

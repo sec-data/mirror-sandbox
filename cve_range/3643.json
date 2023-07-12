@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3643-1", "vendor": "debian", "product": "kde4libs", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4:4.14.2-5+deb8u1", "data_source": "OSV"}]

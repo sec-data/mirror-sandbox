@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2429-1", "vendor": "wordpress", "product": "wordpress", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.7.19+dfsg-1+deb9u1", "data_source": "OSV"}]

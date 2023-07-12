@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2273-1", "vendor": "apache", "product": "shiro", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.3.2-1+deb9u1", "data_source": "OSV"}]

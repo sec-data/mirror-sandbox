@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4883-1", "vendor": "underscorejs", "product": "underscore", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.9.1~dfsg-1+deb10u1", "data_source": "OSV"}]

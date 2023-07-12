@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1752-1", "vendor": "citadel", "product": "webcit", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "7.37-dfsg-7", "data_source": "OSV"}]

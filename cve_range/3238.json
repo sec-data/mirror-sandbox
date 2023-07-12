@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3238-1", "vendor": "libpng", "product": "pngcheck", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.0.3-1~deb10u2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3067-1", "vendor": "kvm_group", "product": "qemu-kvm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.2+dfsg-6+deb7u5", "data_source": "OSV"}]

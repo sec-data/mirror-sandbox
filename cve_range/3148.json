@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3148-1", "vendor": "mediawiki", "product": "mediawiki", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.31.16-1+deb10u4", "data_source": "OSV"}]

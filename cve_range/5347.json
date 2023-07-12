@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5347-1", "vendor": "imagemagick", "product": "imagemagick", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "8:6.9.11.60+dfsg-1.3+deb11u1", "data_source": "OSV"}]

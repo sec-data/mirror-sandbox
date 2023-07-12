@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2455-1", "vendor": "hashicorp", "product": "packer", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.10.2+dfsg-6+deb9u1", "data_source": "OSV"}]

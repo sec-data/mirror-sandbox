@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1965-1", "vendor": "phpldapadmin_project", "product": "phpldapadmin", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.0.5-6+lenny1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1029-1", "vendor": "libmtp_project", "product": "libmtp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.3-35-g0ece104-5+deb7u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3431-1", "vendor": "sqlite", "product": "sqlite", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.8.17-15+deb10u1", "data_source": "OSV"}]

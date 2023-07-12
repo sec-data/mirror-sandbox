@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-0018-1", "vendor": "canonical", "product": "php5", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.3.3-7+squeeze21", "data_source": "OSV"}]

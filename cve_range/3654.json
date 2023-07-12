@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3654-1", "vendor": "quagga", "product": "quagga", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.99.23.1-1+deb8u2", "data_source": "OSV"}]

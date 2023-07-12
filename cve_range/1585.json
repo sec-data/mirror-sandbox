@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1585-1", "vendor": "xiph", "product": "speex", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.12-3etch1", "data_source": "OSV"}]

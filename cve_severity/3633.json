@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-3633-5h82-39pq", "severity": "UNKNOWN", "description": "Go-tuf: Improper handling of different key IDs for the same public keys in attacker-controlled metadata", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-02-17T22:12:20Z"}]

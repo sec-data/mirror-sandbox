@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2471-1", "vendor": "ffmpeg", "product": "ffmpeg", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4:0.5.8-1", "data_source": "OSV"}]

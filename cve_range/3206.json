@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3206-1", "vendor": "dulwich_project", "product": "dulwich", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.8.5-2+deb7u2", "data_source": "OSV"}]

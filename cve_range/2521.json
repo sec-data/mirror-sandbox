@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2521-1", "vendor": "xmlsoft", "product": "libxml2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.7.8.dfsg-2+squeeze5", "data_source": "OSV"}]

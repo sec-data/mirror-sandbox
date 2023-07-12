@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1541-1", "vendor": "jekyllrb", "product": "jekyll", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.2.0+dfsg-2+deb8u1", "data_source": "OSV"}]

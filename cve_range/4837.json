@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4837-1", "vendor": "saltstack", "product": "salt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2018.3.4+dfsg1-6+deb10u2", "data_source": "OSV"}]

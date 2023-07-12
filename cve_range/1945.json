@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1945-1", "vendor": "infradead", "product": "openconnect", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "6.00-2+deb8u1", "data_source": "OSV"}]

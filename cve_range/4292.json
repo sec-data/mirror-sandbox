@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4292-1", "vendor": "kamailio", "product": "kamailio", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.4.4-2+deb9u3", "data_source": "OSV"}]

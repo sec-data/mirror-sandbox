@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2849-1", "vendor": "wireshark", "product": "wireshark", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.6.20-0+deb9u2", "data_source": "OSV"}]

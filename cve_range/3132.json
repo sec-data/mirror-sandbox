@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3132-1", "vendor": "snakeyaml_project", "product": "snakeyaml", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.23-1+deb10u1", "data_source": "OSV"}]

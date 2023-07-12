@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2067-1", "vendor": "wordpress", "product": "wordpress", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.1.29+dfsg-0+deb8u1", "data_source": "OSV"}]

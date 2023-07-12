@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5247-1", "vendor": "openstack", "product": "barbican", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:11.0.0-3+deb11u1", "data_source": "OSV"}]

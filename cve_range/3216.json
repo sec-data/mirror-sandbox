@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3216-1", "vendor": "videolan", "product": "vlc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.0.17.4-0+deb10u2", "data_source": "OSV"}]

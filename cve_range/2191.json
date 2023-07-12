@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2191-1", "vendor": "dom4j_project", "product": "dom4j", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.1+dfsg.3-2+deb8u2", "data_source": "OSV"}]

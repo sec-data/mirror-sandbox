@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1434-1", "vendor": "don_moore", "product": "mydns", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.1.0-7etch1", "data_source": "OSV"}]

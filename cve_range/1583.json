@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1583-1", "vendor": "jasper_project", "product": "jasper", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.900.1-debian1-2.4+deb8u4", "data_source": "OSV"}]

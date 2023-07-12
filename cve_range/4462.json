@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4462-1", "vendor": "freedesktop", "product": "dbus", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.10.28-0+deb9u1", "data_source": "OSV"}]

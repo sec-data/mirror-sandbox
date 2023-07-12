@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4302-1", "vendor": "openafs", "product": "openafs", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.20-2+deb9u2", "data_source": "OSV"}]

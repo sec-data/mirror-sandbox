@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2101-1", "vendor": "wireshark", "product": "wireshark", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.0.2-3+lenny10", "data_source": "OSV"}]

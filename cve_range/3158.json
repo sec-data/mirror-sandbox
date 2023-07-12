@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3158-1", "vendor": "wkhtmltopdf", "product": "wkhtmltopdf", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.12.5-1+deb10u1", "data_source": "OSV"}]

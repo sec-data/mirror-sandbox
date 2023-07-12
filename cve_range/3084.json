@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3084-1", "vendor": "ntop", "product": "ndpi", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.6-3+deb10u1", "data_source": "OSV"}]

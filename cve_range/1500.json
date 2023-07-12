@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1500-1", "vendor": "sam_lantinga", "product": "splitvt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.5-9etch1", "data_source": "OSV"}]

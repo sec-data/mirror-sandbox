@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5250-1", "vendor": "freedesktop", "product": "dbus", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.12.24-0+deb11u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-0021-1", "vendor": "fail2ban", "product": "fail2ban", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.8.4-3+squeeze3", "data_source": "OSV"}]

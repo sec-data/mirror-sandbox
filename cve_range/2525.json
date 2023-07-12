@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2525-1", "vendor": "james_clark", "product": "expat", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.1-7+squeeze1", "data_source": "OSV"}]

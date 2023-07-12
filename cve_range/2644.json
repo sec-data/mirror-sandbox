@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2644-1", "vendor": "wireshark", "product": "wireshark", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.11-6+squeeze10", "data_source": "OSV"}]

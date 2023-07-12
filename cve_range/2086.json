@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2086-1", "vendor": "avahi", "product": "avahi", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.6.23-3lenny2", "data_source": "OSV"}]

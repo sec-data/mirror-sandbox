@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4757-1", "vendor": "debian", "product": "apache2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.38-3+deb10u4", "data_source": "OSV"}]

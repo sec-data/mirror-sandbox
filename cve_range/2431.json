@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2431-1", "vendor": "debian", "product": "libdbd-pg-perl", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.17.1-2+squeeze1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5255-1", "vendor": "gnupg", "product": "libksba", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.5.0-3+deb11u1", "data_source": "OSV"}]

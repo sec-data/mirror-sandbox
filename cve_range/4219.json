@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4219-1", "vendor": "jruby", "product": "jruby", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.7.26-1+deb9u1", "data_source": "OSV"}]

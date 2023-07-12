@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2481-1", "vendor": "openldap", "product": "openldap", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.44+dfsg-5+deb9u6", "data_source": "OSV"}]

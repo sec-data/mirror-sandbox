@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2122-1", "vendor": "libimobiledevice", "product": "libusbmuxd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.0.9-1+deb8u1", "data_source": "OSV"}]

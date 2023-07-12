@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4800-1", "vendor": "libproxy_project", "product": "libproxy", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.4.15-5+deb10u1", "data_source": "OSV"}]

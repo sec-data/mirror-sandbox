@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2123-1", "vendor": "pureftpd", "product": "pure-ftpd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.0.36-3.2+deb8u1", "data_source": "OSV"}]

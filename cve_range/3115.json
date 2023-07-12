@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3115-1", "vendor": "pyyaml", "product": "pyyaml", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.10-4+deb7u1", "data_source": "OSV"}]

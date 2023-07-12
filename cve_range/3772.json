@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3772-1", "vendor": "libxpm_project", "product": "libxpm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:3.5.12-0+deb8u1", "data_source": "OSV"}]

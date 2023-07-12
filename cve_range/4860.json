@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4860-1", "vendor": "openldap", "product": "openldap", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.47+dfsg-3+deb10u6", "data_source": "OSV"}]

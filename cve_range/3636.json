@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3636-1", "vendor": "collectd", "product": "collectd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.4.1-6+deb8u1", "data_source": "OSV"}]

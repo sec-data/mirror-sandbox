@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3107-1", "vendor": "ghost", "product": "sqlite3", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.27.2-3+deb10u2", "data_source": "OSV"}]

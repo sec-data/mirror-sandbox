@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2146-1", "vendor": "mydms", "product": "mydms", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.7.0-1+lenny1", "data_source": "OSV"}]

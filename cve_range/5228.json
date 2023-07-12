@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5228-1", "vendor": "gnome", "product": "gdk-pixbuf", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.42.2+dfsg-1+deb11u1", "data_source": "OSV"}]

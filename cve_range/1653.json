@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1653-1", "vendor": "postgis", "product": "postgis", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.1.4+dfsg-3+deb8u1", "data_source": "OSV"}]

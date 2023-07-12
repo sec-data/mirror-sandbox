@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2872-1", "vendor": "antigrain", "product": "agg", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.5+dfsg1-11+deb9u1", "data_source": "OSV"}]

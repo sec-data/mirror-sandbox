@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3008-1", "vendor": "canonical", "product": "php5", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.4.4-14+deb7u13", "data_source": "OSV"}]

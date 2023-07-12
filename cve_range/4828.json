@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-m45f-4828-5cv5", "vendor": "highcharts", "product": "highcharts", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "6.1.0", "data_source": "OSV"}]

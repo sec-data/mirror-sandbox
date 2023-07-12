@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1952-1", "vendor": "rsyslog", "product": "rsyslog", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "8.4.2-1+deb8u3", "data_source": "OSV"}]

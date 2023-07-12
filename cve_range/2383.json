@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2383-1", "vendor": "nfdump_project", "product": "nfdump", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.15-3+deb9u1", "data_source": "OSV"}]

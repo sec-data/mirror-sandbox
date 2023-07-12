@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1728-1", "vendor": "dkim", "product": "dkim-milter", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.6.0.dfsg-1+lenny1", "data_source": "OSV"}]

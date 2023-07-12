@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3464-1", "vendor": "rubyonrails", "product": "rails", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:4.1.8-1+deb8u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3871-1", "vendor": "apache", "product": "zookeeper", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.4.5+dfsg-2+deb8u2", "data_source": "OSV"}]

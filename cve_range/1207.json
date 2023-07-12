@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1207-1", "vendor": "erlang", "product": "erlang", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:15.b.1-dfsg-4+deb7u2", "data_source": "OSV"}]

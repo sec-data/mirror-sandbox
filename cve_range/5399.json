@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5399-1", "vendor": "odoo", "product": "odoo", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "14.0.0+dfsg.2-7+deb11u1", "data_source": "OSV"}]

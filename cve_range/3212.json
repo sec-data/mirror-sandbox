@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3212-1", "vendor": "twistedmatrix", "product": "twisted", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "18.9.0-3+deb10u2", "data_source": "OSV"}]

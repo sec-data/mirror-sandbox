@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5410-1", "vendor": "signalwire", "product": "sofia-sip", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.12.11+20110422.1-2.1+deb11u1", "data_source": "OSV"}]

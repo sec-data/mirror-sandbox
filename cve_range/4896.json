@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4896-1", "vendor": "wordpress", "product": "wordpress", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.0.12+dfsg1-0+deb10u1", "data_source": "OSV"}]

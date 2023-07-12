@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2116-1", "vendor": "freetype", "product": "freetype", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.3.7-2+lenny4", "data_source": "OSV"}]

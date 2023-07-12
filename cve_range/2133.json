@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2133-1", "vendor": "collectd", "product": "collectd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.4.2-3+lenny1", "data_source": "OSV"}]

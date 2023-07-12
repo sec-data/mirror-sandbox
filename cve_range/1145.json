@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1145-1", "vendor": "freeradius", "product": "freeradius", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.0.2-4sarge3", "data_source": "OSV"}]

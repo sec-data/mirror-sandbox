@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3629-1", "vendor": "ntp", "product": "ntp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:4.2.6.p5+dfsg-7+deb8u2", "data_source": "OSV"}]

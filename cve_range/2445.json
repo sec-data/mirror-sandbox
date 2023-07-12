@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2445-1", "vendor": "maxmind", "product": "libmaxminddb", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.0-1+deb9u1", "data_source": "OSV"}]

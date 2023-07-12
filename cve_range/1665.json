@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1665-1", "vendor": "netmask_project", "product": "netmask", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.3.12+deb8u1", "data_source": "OSV"}]

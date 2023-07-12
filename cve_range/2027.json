@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2027-1", "vendor": "jruby", "product": "jruby", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.5.6-9+deb8u2", "data_source": "OSV"}]

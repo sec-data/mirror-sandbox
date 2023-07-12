@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5338-1", "vendor": "openstack", "product": "cinder", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:17.0.1-1+deb11u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2045-1", "vendor": "tightvnc", "product": "tightvnc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.3.9-6.5+deb8u1", "data_source": "OSV"}]

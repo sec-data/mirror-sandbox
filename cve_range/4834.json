@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4834-1", "vendor": "videolan", "product": "vlc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.0.12-0+deb10u1", "data_source": "OSV"}]

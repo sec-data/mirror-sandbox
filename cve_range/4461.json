@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4461-1", "vendor": "apache", "product": "zookeeper", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.4.9-3+deb9u2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3584-1", "vendor": "gnome", "product": "librsvg", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.40.5-1+deb8u2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1147-1", "vendor": "drupal", "product": "drupal", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.5.3-6.1sarge3", "data_source": "OSV"}]

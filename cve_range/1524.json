@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1524-1", "vendor": "xmlsoft", "product": "libxml2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.9.1+dfsg1-5+deb8u7", "data_source": "OSV"}]

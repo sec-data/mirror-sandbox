@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4758-1", "vendor": "x.org", "product": "xorg-server", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:1.20.4-1+deb10u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1593-1", "vendor": "debian", "product": "phpbb3", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.0.12-5+deb8u2", "data_source": "OSV"}]

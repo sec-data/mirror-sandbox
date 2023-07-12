@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2284-1", "vendor": "ksh_project", "product": "ksh", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "93u+20120801-3.1+deb9u1", "data_source": "OSV"}]

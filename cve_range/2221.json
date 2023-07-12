@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2221-1", "vendor": "ghost", "product": "sqlite3", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.8.7.1-1+deb8u6", "data_source": "OSV"}]

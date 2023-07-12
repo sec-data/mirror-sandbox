@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2573-1", "severity": "UNKNOWN", "description": "radsecproxy - SSL certificate verification weakness", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-06-28T06:51:34.956001Z"}]

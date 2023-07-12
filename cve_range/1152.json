@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1152-1", "vendor": "quagga", "product": "quagga", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.99.22.4-1+wheezy3+deb7u2", "data_source": "OSV"}]

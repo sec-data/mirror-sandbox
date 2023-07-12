@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5291-1", "vendor": "artifex", "product": "mujs", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.0-1+deb11u2", "data_source": "OSV"}]

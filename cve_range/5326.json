@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5326-1", "vendor": "nodejs", "product": "nodejs", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "12.22.12~dfsg-1~deb11u3", "data_source": "OSV"}]

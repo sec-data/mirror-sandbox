@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3071-1", "vendor": "libtirpc_project", "product": "libtirpc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.4-0.4+deb10u1", "data_source": "OSV"}]

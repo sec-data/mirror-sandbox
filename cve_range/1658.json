@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1658-1", "vendor": "freedesktop", "product": "dbus", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.0.2-1+etch2", "data_source": "OSV"}]

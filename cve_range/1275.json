@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1275-1", "vendor": "unbit", "product": "uwsgi", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.3+dfsg-5+deb7u2", "data_source": "OSV"}]

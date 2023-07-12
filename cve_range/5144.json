@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5144-1", "vendor": "condor_project", "product": "condor", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "8.6.8~dfsg.1-2+deb10u1", "data_source": "OSV"}]

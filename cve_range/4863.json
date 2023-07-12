@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4863-1", "vendor": "nodejs", "product": "nodejs", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "10.24.0~dfsg-1~deb10u1", "data_source": "OSV"}]

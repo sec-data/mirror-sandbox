@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2198-1", "vendor": "debian", "product": "tex-common", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.08.1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2649-1", "severity": "UNKNOWN", "description": "lighttpd - fixed socket name in world-writable directory", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-06-28T06:48:10.384910Z"}]

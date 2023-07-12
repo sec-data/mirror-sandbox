@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2183-1", "vendor": "wouter_verhelst", "product": "nbd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:2.9.11-3lenny1", "data_source": "OSV"}]

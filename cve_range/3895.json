@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3895-1", "vendor": "flatpak", "product": "flatpak", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.8.5-2+deb9u1", "data_source": "OSV"}]

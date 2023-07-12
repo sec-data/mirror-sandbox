@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1575-1", "vendor": "mozilla", "product": "thunderbird", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:60.3.0-1~deb8u1", "data_source": "OSV"}]

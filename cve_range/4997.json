@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4997-1", "vendor": "golang", "product": "tiff", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.1.0+git191117-2~deb10u3", "data_source": "OSV"}]

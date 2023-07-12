@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2927-1", "vendor": "twistedmatrix", "product": "twisted", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "16.6.0-2+deb9u1", "data_source": "OSV"}]

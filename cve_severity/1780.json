@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1780-1", "severity": "UNKNOWN", "description": "libdbd-pg-perl - potential code execution", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-06-28T06:38:46.269568Z"}]

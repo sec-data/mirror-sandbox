@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3529-1", "vendor": "redmine", "product": "redmine", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.0~20140825-8~deb8u2", "data_source": "OSV"}]

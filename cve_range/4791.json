@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4791-1", "vendor": "clusterlabs", "product": "pacemaker", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.1-5+deb10u1", "data_source": "OSV"}]

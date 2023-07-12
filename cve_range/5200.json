@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5200-1", "vendor": "libtirpc_project", "product": "libtirpc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.3.1-1+deb11u1", "data_source": "OSV"}]

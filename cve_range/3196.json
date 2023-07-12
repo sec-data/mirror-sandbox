@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3196-1", "vendor": "mozilla", "product": "thunderbird", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:102.5.0-1~deb10u1", "data_source": "OSV"}]

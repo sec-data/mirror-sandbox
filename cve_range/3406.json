@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3406-1", "vendor": "sniproxy_project", "product": "sniproxy", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.6.0-1+deb10u1", "data_source": "OSV"}]

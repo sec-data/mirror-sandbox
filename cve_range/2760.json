@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2760-1", "vendor": "nettle_project", "product": "nettle", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.3-1+deb9u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1224-1", "vendor": "mozilla", "product": "mozilla", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:1.7.8-1sarge8", "data_source": "OSV"}]

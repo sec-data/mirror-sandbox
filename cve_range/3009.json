@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3009-1", "vendor": "debian", "product": "python-imaging", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.7-4+deb7u1", "data_source": "OSV"}]

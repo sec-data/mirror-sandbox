@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1372-1", "vendor": "x.org", "product": "xorg-server", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:1.1.1-21etch1", "data_source": "OSV"}]

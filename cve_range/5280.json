@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5280-1", "vendor": "gnu", "product": "grub2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.06-3~deb11u4", "data_source": "OSV"}]

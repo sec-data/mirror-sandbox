@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1944-1", "vendor": "apache", "product": "libapreq2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.13-4+deb8u1", "data_source": "OSV"}]

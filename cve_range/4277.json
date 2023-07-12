@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4277-1", "vendor": "mutt", "product": "mutt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.7.2-1+deb9u1", "data_source": "OSV"}]

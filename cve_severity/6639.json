@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-9r7h-6639-v5mw", "severity": "UNKNOWN", "description": "Cross-Site Scripting in bootstrap-select", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2021-10-04T21:12:36Z"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3493-1", "vendor": "sensiolabs", "product": "symfony", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.4.22+dfsg-2+deb10u2", "data_source": "OSV"}]

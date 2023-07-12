@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1986-1", "vendor": "moodle", "product": "moodle", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.8.2.dfsg-3+lenny3", "data_source": "OSV"}]

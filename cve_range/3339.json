@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3339-1", "vendor": "microsoft", "product": "binwalk", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.1.2~git20180830+dfsg1-1+deb10u1", "data_source": "OSV"}]

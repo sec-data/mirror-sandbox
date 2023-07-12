@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3499-1", "vendor": "python", "product": "pillow", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.6.1-2+deb8u2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1774-1", "vendor": "process-one", "product": "ejabberd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.1-6+lenny1", "data_source": "OSV"}]

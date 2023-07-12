@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3081-1", "vendor": "vmware", "product": "open-vm-tools", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:10.3.10-1+deb10u3", "data_source": "OSV"}]

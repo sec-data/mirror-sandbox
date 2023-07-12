@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5426-1", "vendor": "osgeo", "product": "owslib", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.23.0-1+deb11u1", "data_source": "OSV"}]

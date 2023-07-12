@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1778-1", "vendor": "sensiolabs", "product": "symfony", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.3.21+dfsg-4+deb8u5", "data_source": "OSV"}]

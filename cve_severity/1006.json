@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1006-1", "severity": "UNKNOWN", "description": "wzdftpd - missing input sanitising", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-06-28T06:27:14.580795Z"}]

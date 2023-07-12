@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1438-1", "vendor": "opencv", "product": "opencv", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.9.1+dfsg-1+deb8u2", "data_source": "OSV"}]

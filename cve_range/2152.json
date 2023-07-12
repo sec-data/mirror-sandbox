@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2152-1", "vendor": "hp", "product": "hplip", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.8.6.b-4+lenny1", "data_source": "OSV"}]

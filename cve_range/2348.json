@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2348-1", "vendor": "systemtap", "product": "systemtap", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2-5+squeeze1", "data_source": "OSV"}]

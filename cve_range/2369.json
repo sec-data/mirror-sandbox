@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2369-1", "vendor": "xmlsoft", "product": "libxml2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.9.4+dfsg1-2.2+deb9u3", "data_source": "OSV"}]

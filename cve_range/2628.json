@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2628-1", "vendor": "arthurdejong", "product": "nss-pam-ldapd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.7.15+squeeze3", "data_source": "OSV"}]

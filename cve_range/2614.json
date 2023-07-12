@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2614-1", "vendor": "libupnp_project", "product": "libupnp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.6.6-5+squeeze1", "data_source": "OSV"}]

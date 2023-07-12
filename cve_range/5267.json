@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5267-1", "vendor": "pysha3_project", "product": "pysha3", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.0.2-4.1+deb11u1", "data_source": "OSV"}]

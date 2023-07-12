@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2626-1", "vendor": "lighttpd", "product": "lighttpd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.28-2+squeeze1.2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1718-1", "vendor": "sqlalchemy", "product": "sqlalchemy", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.9.8+dfsg-0.1+deb8u1", "data_source": "OSV"}]

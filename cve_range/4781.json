@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4781-1", "vendor": "blueman_project", "product": "blueman", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.8-1+deb10u1", "data_source": "OSV"}]

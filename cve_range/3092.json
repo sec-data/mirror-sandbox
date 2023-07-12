@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3092-1", "vendor": "dpdk", "product": "dpdk", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "18.11.11-1~deb10u2", "data_source": "OSV"}]

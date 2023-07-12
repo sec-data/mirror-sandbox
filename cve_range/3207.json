@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3207-1", "vendor": "fasterxml", "product": "jackson-databind", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.9.8-3+deb10u4", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "GHSA-cvmr-6428-87w9", "vendor": "getgrav", "product": "grav", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.30", "data_source": "OSV"}]

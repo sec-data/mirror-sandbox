@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4808-1", "vendor": "debian", "product": "apt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.8.2.2", "data_source": "OSV"}]

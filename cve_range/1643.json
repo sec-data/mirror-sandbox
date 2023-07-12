@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1643-1", "vendor": "debian", "product": "feta", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.15+etch1", "data_source": "OSV"}]

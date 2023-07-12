@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1516-1", "vendor": "kde", "product": "okular", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4:4.14.2-2+deb8u1", "data_source": "OSV"}]

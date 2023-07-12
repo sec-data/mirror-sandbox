@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2308-1", "vendor": "openmpt", "product": "libopenmpt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.2.7386~beta20.3-3+deb9u4", "data_source": "OSV"}]

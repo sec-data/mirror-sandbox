@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2484-1", "vendor": "networkupstools", "product": "nut", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.3-1.1squeeze2", "data_source": "OSV"}]

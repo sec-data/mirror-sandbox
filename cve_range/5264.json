@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5264-1", "vendor": "apache", "product": "batik", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.12-4+deb11u1", "data_source": "OSV"}]

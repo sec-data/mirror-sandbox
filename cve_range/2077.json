@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2077-1", "vendor": "openldap", "product": "openldap", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.11-1+lenny2", "data_source": "OSV"}]

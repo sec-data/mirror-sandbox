@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3301-1", "vendor": "openstack", "product": "cinder", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:13.0.7-1+deb10u2", "data_source": "OSV"}]

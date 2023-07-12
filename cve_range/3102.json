@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3102-1", "vendor": "pyyaml", "product": "libyaml", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.1.4-2+deb7u5", "data_source": "OSV"}]

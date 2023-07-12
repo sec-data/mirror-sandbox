@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2209-1", "vendor": "zaal", "product": "tgt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.0.4-2squeeze1", "data_source": "OSV"}]

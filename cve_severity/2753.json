@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2753-1", "severity": "UNKNOWN", "description": "mediawiki - cross-site request forgery token disclosure", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-06-28T06:45:18.783853Z"}]

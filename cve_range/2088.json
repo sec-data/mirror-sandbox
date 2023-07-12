@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2088-1", "vendor": "opensuse", "product": "libsolv", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.6.5-1+deb8u1", "data_source": "OSV"}]

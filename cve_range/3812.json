@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3812-1", "vendor": "ioquake3", "product": "ioquake3", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.36+u20140802+gca9eebb-2+deb8u1", "data_source": "OSV"}]

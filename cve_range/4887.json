@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4887-1", "vendor": "3mf", "product": "lib3mf", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.8.1+ds-3+deb10u1", "data_source": "OSV"}]

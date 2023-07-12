@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1843-1", "vendor": "powerdns", "product": "pdns", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.4.1-4+deb8u10", "data_source": "OSV"}]

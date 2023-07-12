@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4684-1", "vendor": "libreswan", "product": "libreswan", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.27-6+deb10u1", "data_source": "OSV"}]

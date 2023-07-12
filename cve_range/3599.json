@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3599-1", "vendor": "7-zip", "product": "p7zip", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "9.20.1~dfsg.1-4.1+deb8u2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2177-1", "vendor": "simon_pamies", "product": "pywebdav", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.9.4-1+squeeze1", "data_source": "OSV"}]

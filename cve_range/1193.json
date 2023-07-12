@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1193-1", "vendor": "roundcube", "product": "roundcube", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.7.2-9+deb7u9", "data_source": "OSV"}]

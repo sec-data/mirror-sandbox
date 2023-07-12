@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4926-1", "vendor": "entrouvert", "product": "lasso", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.6.0-2+deb10u1", "data_source": "OSV"}]

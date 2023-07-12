@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2313-1", "vendor": "gnu", "product": "iceweasel", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.5.16-10", "data_source": "OSV"}]

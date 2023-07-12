@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3425-1", "vendor": "sqlparse_project", "product": "sqlparse", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.2.4-1+deb10u1", "data_source": "OSV"}]

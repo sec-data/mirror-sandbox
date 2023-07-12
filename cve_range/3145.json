@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3145-1", "vendor": "privoxy", "product": "privoxy", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.0.19-2+deb7u2", "data_source": "OSV"}]

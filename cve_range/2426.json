@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2426-1", "vendor": "junit", "product": "junit4", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.12-4+deb9u1", "data_source": "OSV"}]

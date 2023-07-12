@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4334-1", "vendor": "artifex", "product": "mupdf", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.9a+ds1-4+deb9u4", "data_source": "OSV"}]

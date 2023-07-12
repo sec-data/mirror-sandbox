@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2995-1", "vendor": "oberhumer", "product": "lzo2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.06-1+deb7u1", "data_source": "OSV"}]

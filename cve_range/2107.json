@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2107-1", "vendor": "apache", "product": "couchdb", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.8.0-2+lenny1", "data_source": "OSV"}]

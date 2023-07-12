@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4773-1", "vendor": "yaws", "product": "yaws", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.6+dfsg-1+deb10u1", "data_source": "OSV"}]

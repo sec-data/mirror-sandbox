@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2234-1", "vendor": "zope", "product": "zodb", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:3.6.0-2+lenny3", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2387-1", "severity": "UNKNOWN", "description": "simplesamlphp - cross site scripting", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-06-28T06:47:18.379719Z"}]

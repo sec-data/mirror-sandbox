@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1268-1", "vendor": "7-zip", "product": "p7zip", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "9.20.1~dfsg.1-4+deb7u3", "data_source": "OSV"}]

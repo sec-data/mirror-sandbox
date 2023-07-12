@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1487-1", "vendor": "libtirpc_project", "product": "libtirpc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.2.5-1+deb8u2", "data_source": "OSV"}]

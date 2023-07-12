@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1447-1", "vendor": "gnu", "product": "libidn", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.29-1+deb8u3", "data_source": "OSV"}]

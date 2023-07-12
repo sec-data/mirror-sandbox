@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3533-1", "vendor": "openvswitch", "product": "openvswitch", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.3.0+git20140819-3+deb8u1", "data_source": "OSV"}]

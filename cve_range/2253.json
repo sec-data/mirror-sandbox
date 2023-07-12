@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2253-1", "vendor": "cisofy", "product": "lynis", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.3-1+deb8u1", "data_source": "OSV"}]

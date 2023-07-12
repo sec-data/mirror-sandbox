@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2031-1", "vendor": "freeimage_project", "product": "freeimage", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.15.4-4.2+deb8u2", "data_source": "OSV"}]

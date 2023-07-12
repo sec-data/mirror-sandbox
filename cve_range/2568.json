@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2568-1", "vendor": "bestpractical", "product": "rtfm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.4.2-4+squeeze2", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3602-1", "vendor": "canonical", "product": "php5", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.6.22+dfsg-0+deb8u1", "data_source": "OSV"}]

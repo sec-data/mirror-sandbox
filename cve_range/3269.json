@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3269-1", "vendor": "apache", "product": "libapreq2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.13-7~deb10u2", "data_source": "OSV"}]

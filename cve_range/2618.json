@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2618-1", "vendor": "ircd-hybrid", "product": "ircd-hybrid", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:7.2.2.dfsg.2-6.2+squeeze1", "data_source": "OSV"}]

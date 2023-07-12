@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3083-1", "vendor": "mutt", "product": "mutt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.5.21-6.2+deb7u3", "data_source": "OSV"}]

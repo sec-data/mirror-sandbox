@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1168-1", "vendor": "imagemagick", "product": "imagemagick", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "6:6.0.6.2-2.7", "data_source": "OSV"}]

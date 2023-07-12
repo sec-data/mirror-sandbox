@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4756-1", "vendor": "lilypond", "product": "lilypond", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.19.81+really-2.18.2-13+deb10u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2597-1", "vendor": "rubyonrails", "product": "rails", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.3.5-1.2+squeeze4", "data_source": "OSV"}]

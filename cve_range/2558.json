@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2558-1", "vendor": "bacula", "product": "bacula", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.0.2-2.2+squeeze1", "data_source": "OSV"}]

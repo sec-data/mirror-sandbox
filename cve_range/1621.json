@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1621-1", "vendor": "mchange", "product": "c3p0", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.9.1.2-9+deb8u1", "data_source": "OSV"}]

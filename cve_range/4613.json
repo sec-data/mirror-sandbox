@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4613-1", "vendor": "gnu", "product": "libidn2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.5-1+deb10u1", "data_source": "OSV"}]

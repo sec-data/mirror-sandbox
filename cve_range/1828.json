@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1828-1", "vendor": "ocsinventory-ng", "product": "ocsinventory-agent", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:0.0.9.2repack1-4lenny1", "data_source": "OSV"}]

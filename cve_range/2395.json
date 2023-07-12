@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2395-1", "vendor": "wireshark", "product": "wireshark", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.11-6+squeeze6", "data_source": "OSV"}]

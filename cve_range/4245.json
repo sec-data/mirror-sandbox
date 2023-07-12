@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4245-1", "vendor": "imagemagick", "product": "imagemagick", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "8:6.9.7.4+dfsg-11+deb9u5", "data_source": "OSV"}]

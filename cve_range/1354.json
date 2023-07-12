@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1354-1", "vendor": "opencv", "product": "opencv", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.3.1-11+deb7u4", "data_source": "OSV"}]

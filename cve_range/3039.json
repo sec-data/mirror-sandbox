@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3039-1", "vendor": "pypdf2_project", "product": "pypdf2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.26.0-2+deb9u1", "data_source": "OSV"}]

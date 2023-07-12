@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1795-1", "vendor": "nlnetlabs", "product": "ldns", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.0-1+lenny1", "data_source": "OSV"}]

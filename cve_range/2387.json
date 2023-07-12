@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2387-1", "vendor": "simplesamlphp", "product": "simplesamlphp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.3-3", "data_source": "OSV"}]

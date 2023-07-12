@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4938-1", "vendor": "linuxptp_project", "product": "linuxptp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.9.2-1+deb10u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4203-1", "vendor": "videolan", "product": "vlc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.0.2-0+deb9u1", "data_source": "OSV"}]

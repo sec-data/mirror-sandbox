@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1072-1", "vendor": "nagios", "product": "nagios", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:1.3-cvs.20050402-2.sarge.2", "data_source": "OSV"}]

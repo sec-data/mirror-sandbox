@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2117-1", "vendor": "apache", "product": "apr-util", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.12+dfsg-8+lenny5", "data_source": "OSV"}]

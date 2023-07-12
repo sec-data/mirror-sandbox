@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1471-1", "vendor": "kamailio", "product": "kamailio", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.2.0-2+deb8u4", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1540-1", "vendor": "lighttpd", "product": "lighttpd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.13-4etch7", "data_source": "OSV"}]

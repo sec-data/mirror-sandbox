@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4868-1", "vendor": "flatpak", "product": "flatpak", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.5-0+deb10u4", "data_source": "OSV"}]

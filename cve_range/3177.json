@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3177-1", "vendor": "apache", "product": "mod-gnutls", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.5.10-1.1+deb7u1", "data_source": "OSV"}]

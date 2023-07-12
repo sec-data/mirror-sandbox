@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1230-1", "vendor": "l2tpns", "product": "l2tpns", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.14-1sarge1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1178-1", "vendor": "freetype", "product": "freetype", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.1.7-6", "data_source": "OSV"}]

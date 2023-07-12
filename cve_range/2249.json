@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2249-1", "vendor": "jabberd", "product": "jabberd14", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.1.1-5+squeeze1", "data_source": "OSV"}]

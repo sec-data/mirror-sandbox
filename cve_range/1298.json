@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1298-1", "vendor": "simplesamlphp", "product": "simplesamlphp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.9.2-1+deb7u3", "data_source": "OSV"}]

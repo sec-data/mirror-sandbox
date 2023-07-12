@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4389-1", "vendor": "yubico", "product": "libu2f-host", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.2-2+deb9u1", "data_source": "OSV"}]

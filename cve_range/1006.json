@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1006-1", "vendor": "wzdftpd", "product": "wzdftpd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.5.2-1.1sarge1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3231-1", "vendor": "covesa", "product": "dlt-daemon", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.18.0-1+deb10u1", "data_source": "OSV"}]

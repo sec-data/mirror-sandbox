@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3894-1", "vendor": "sil", "product": "graphite2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.3.10-1~deb8u1", "data_source": "OSV"}]

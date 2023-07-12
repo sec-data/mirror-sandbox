@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4044-1", "vendor": "openstack", "product": "swauth", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.0-2+deb9u1", "data_source": "OSV"}]

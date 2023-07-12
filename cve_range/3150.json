@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3150-1", "vendor": "videolan", "product": "vlc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.3-5+deb7u2", "data_source": "OSV"}]

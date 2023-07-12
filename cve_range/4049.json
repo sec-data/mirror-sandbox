@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4049-1", "vendor": "ffmpeg", "product": "ffmpeg", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "7:3.2.9-1~deb9u1", "data_source": "OSV"}]

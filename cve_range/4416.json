@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4416-1", "vendor": "wireshark", "product": "wireshark", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.6.7-1~deb9u1", "data_source": "OSV"}]

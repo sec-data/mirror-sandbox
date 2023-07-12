@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2136-1", "vendor": "webmproject", "product": "libvpx", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.3.0-3+deb8u3", "data_source": "OSV"}]

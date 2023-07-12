@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4147-1", "vendor": "polarssl", "product": "polarssl", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.3.9-2.1+deb8u3", "data_source": "OSV"}]

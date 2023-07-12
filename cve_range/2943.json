@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2943-1", "vendor": "canonical", "product": "php5", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.4.4-14+deb7u10", "data_source": "OSV"}]

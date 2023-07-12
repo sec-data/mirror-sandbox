@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1299-1", "vendor": "ipsec-tools", "product": "ipsec-tools", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:0.6.6-3.1etch1", "data_source": "OSV"}]

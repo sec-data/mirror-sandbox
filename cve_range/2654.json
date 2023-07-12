@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2654-1", "vendor": "xmlsoft", "product": "libxslt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.26-6+squeeze3", "data_source": "OSV"}]

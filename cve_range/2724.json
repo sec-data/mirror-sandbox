@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2724-1", "vendor": "condor_project", "product": "condor", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "8.4.11~dfsg.1-1+deb9u1", "data_source": "OSV"}]

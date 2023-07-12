@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1108", "vendor": "mutt", "product": "mutt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.5.9-2sarge2", "data_source": "OSV"}]

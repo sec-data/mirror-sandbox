@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2046-1", "vendor": "phpgroupware", "product": "phpgroupware", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:0.9.16.012+dfsg-8+lenny2", "data_source": "OSV"}]

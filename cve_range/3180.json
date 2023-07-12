@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3180-1", "vendor": "python-scciclient_project", "product": "python-scciclient", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.7.2-2+deb10u1", "data_source": "OSV"}]

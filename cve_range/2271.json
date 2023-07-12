@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2271-1", "vendor": "coturn_project", "product": "coturn", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.2.1.2-1+deb8u2", "data_source": "OSV"}]

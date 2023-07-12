@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3040-1", "vendor": "rsyslog", "product": "rsyslog", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "5.8.11-3+deb7u1", "data_source": "OSV"}]

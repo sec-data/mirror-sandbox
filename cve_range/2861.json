@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2861-1", "vendor": "rdflib_project", "product": "rdflib", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.2.1-2+deb9u1", "data_source": "OSV"}]

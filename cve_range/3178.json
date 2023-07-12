@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3178-1", "vendor": "ffmpeg", "product": "ffmpeg", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "7:4.1.10-0+deb10u1", "data_source": "OSV"}]

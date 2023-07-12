@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2169-1", "vendor": "libmtp_project", "product": "libmtp", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.8-1+deb8u1", "data_source": "OSV"}]

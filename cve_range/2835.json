@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2835-1", "vendor": "rsyslog", "product": "rsyslog", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "8.24.0-1+deb9u1", "data_source": "OSV"}]

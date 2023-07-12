@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1271-1", "vendor": "openafs", "product": "openafs", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.3.81-3sarge2", "data_source": "OSV"}]

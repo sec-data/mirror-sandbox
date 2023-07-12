@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1852-1", "severity": "UNKNOWN", "description": "fetchmail - SSL certificate verification weakness", "score": "unknown", "cvss_version": "unknown", "cvss_vector": "unknown", "data_source": "OSV", "last_modified": "2023-06-28T06:31:20.080533Z"}]

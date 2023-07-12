@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3852-1", "vendor": "squirrelmail", "product": "squirrelmail", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:1.4.23~svn20120406-2+deb8u1", "data_source": "OSV"}]

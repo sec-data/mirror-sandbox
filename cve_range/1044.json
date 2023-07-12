@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1044-1", "vendor": "ipsec-tools", "product": "ipsec-tools", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:0.8.0-14+deb7u2", "data_source": "OSV"}]

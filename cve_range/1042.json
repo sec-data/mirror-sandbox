@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1042-1", "vendor": "libquicktime", "product": "libquicktime", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2:1.2.4-3+deb7u2", "data_source": "OSV"}]

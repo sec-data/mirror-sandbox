@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3588-1", "vendor": "sensiolabs", "product": "symfony", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.3.21+dfsg-4+deb8u3", "data_source": "OSV"}]

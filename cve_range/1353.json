@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1353-1", "vendor": "wireshark", "product": "wireshark", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.12.1+g01b65bf-4+deb8u6~deb7u10", "data_source": "OSV"}]

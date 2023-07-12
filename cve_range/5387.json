@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-5387-1", "vendor": "openvswitch", "product": "openvswitch", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.15.0+ds1-2+deb11u4", "data_source": "OSV"}]

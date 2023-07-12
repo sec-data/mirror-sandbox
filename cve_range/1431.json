@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1431-1", "vendor": "apache", "product": "ant", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.9.4-3+deb8u1", "data_source": "OSV"}]

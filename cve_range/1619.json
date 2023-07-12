@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1619-1", "vendor": "debian", "product": "python-dns", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.3.0-5.2+etch1", "data_source": "OSV"}]

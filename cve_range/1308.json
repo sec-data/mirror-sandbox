@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1308-1", "vendor": "gnu", "product": "iceweasel", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.0.4-0etch1", "data_source": "OSV"}]

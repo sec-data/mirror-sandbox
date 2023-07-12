@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1688-1", "vendor": "debian", "product": "courier-authlib", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.58-4+etch2", "data_source": "OSV"}]

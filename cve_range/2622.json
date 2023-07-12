@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2622-1", "vendor": "polarssl", "product": "polarssl", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.12.1-1squeeze1", "data_source": "OSV"}]

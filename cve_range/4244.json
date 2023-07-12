@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4244-1", "vendor": "mozilla", "product": "thunderbird", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:52.9.1-1~deb9u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2084-1", "vendor": "golang", "product": "tiff", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.8.2-11.3", "data_source": "OSV"}]

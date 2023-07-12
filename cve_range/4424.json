@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4424-1", "vendor": "powerdns", "product": "pdns", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.0.3-1+deb9u4", "data_source": "OSV"}]

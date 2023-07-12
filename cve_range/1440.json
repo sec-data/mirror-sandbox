@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1440-1", "vendor": "inotify", "product": "inotify-tools", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.3-2", "data_source": "OSV"}]

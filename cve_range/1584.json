@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1584-1", "vendor": "xiph", "product": "libfishsound", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.7.0-2etch1", "data_source": "OSV"}]

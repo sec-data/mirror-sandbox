@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3906-1", "vendor": "redhat", "product": "undertow", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.4.8-1+deb9u1", "data_source": "OSV"}]

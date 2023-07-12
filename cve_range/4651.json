@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4651-1", "vendor": "mediawiki", "product": "mediawiki", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.31.7-1~deb10u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2895-1", "vendor": "prosody", "product": "prosody", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.8.2-4+deb7u1", "data_source": "OSV"}]

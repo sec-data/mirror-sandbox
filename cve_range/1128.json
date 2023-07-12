@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1128-1", "vendor": "kvm_group", "product": "qemu-kvm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.1.2+dfsg-6+deb7u24", "data_source": "OSV"}]

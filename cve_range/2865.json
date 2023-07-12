@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2865-1", "vendor": "resiprocate", "product": "resiprocate", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1:1.11.0~beta1-3+deb9u2", "data_source": "OSV"}]

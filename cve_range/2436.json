@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2436-1", "vendor": "sddm_project", "product": "sddm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.14.0-4+deb9u2", "data_source": "OSV"}]

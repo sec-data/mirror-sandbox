@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2841-1", "vendor": "linuxfoundation", "product": "runc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.1.1+dfsg1-2+deb9u3", "data_source": "OSV"}]

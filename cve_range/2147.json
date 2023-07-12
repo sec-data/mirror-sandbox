@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2147-1", "vendor": "troglobit", "product": "pimd", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.1.0-alpha29.17-8.1lenny1", "data_source": "OSV"}]

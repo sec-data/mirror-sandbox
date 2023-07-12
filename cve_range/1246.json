@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1246-1", "vendor": "transmissionbt", "product": "transmission", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.52-3+nmu3", "data_source": "OSV"}]

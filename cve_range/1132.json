@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1132-1", "vendor": "debian", "product": "apache2", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.0.54-5sarge1", "data_source": "OSV"}]

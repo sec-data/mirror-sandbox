@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2230-1", "vendor": "kvm_group", "product": "qemu-kvm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.12.5+dfsg-5+squeeze1", "data_source": "OSV"}]

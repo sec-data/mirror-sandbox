@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1561-1", "vendor": "phpldapadmin_project", "product": "phpldapadmin", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.2.2-5.2+deb8u1", "data_source": "OSV"}]

@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2577-1", "vendor": "libssh", "product": "libssh", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.4.5-3+squeeze1", "data_source": "OSV"}]

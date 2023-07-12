@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2707-1", "vendor": "freedesktop", "product": "dbus", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.8-1+deb7u1", "data_source": "OSV"}]

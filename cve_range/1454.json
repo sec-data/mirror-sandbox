@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-1454-1", "vendor": "freetype", "product": "freetype", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.2.1-5+etch2", "data_source": "OSV"}]

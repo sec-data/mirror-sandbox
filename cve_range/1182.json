@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-1182-1", "vendor": "nlnetlabs", "product": "ldns", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "1.6.13-1+deb7u2", "data_source": "OSV"}]

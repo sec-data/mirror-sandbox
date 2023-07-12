@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4708-1", "vendor": "neomutt", "product": "neomutt", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "20180716+dfsg.1-1+deb10u1", "data_source": "OSV"}]

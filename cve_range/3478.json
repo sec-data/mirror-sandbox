@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-3478-1", "vendor": "yajl_project", "product": "yajl", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "2.1.0-3+deb10u1", "data_source": "OSV"}]

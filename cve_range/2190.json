@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-2190-1", "vendor": "wordpress", "product": "wordpress", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "3.0.5+dfsg-0+squeeze1", "data_source": "OSV"}]

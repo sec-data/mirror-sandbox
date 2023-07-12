@@ -1,0 +1,1 @@
+[{"cve_number": "DLA-2490-1", "vendor": "x11vnc_project", "product": "x11vnc", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "0.9.13-2+deb9u2", "data_source": "OSV"}]

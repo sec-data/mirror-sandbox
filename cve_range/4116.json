@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-4116-1", "vendor": "kde", "product": "plasma-workspace", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4:5.8.6-2.1+deb9u1", "data_source": "OSV"}]

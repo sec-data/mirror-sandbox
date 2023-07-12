@@ -1,0 +1,1 @@
+[{"cve_number": "DSA-3129-1", "vendor": "rpm", "product": "rpm", "version": "*", "versionStartIncluding": "0", "versionStartExcluding": "", "versionEndIncluding": "", "versionEndExcluding": "4.10.0-5+deb7u2", "data_source": "OSV"}]
